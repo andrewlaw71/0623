@@ -329,7 +329,7 @@ hr {
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: url('../tile-sets/dear/8.jpg');
+    background: url('../tile-sets/dear/8.JPG');
     background-size: 108%;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -338,7 +338,7 @@ hr {
     font-size: 11px;
   }
   .tile.tile-16 .tile-inner {
-    background: url('../tile-sets/dear/16.jpg');
+    background: url('../tile-sets/dear/16.JPG');
     background-size: 100%;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -347,7 +347,7 @@ hr {
     font-size: 10px;
   }
   .tile.tile-32 .tile-inner {
-    background: url('../tile-sets/dear/32.jpg');
+    background: url('../tile-sets/dear/32.JPG');
     background-size: 125%;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -355,7 +355,7 @@ hr {
     font-size: 14px;
   }
   .tile.tile-64 .tile-inner {
-    background: url('../tile-sets/dear/64.jpg');
+    background: url('../tile-sets/dear/64.JPG');
     background-size: 100%;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -365,7 +365,7 @@ hr {
   }
   .tile.tile-128 .tile-inner {
     font-weight: medium;
-    background: url('../tile-sets/dear/128.jpg');
+    background: url('../tile-sets/dear/128.JPG');
     background-size: 100%;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -376,7 +376,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 12px; } }
   .tile.tile-256 .tile-inner {
-    background: url('../tile-sets/dear/256.jpg');
+    background: url('../tile-sets/dear/256.JPG');
     background-size: 100%;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -387,7 +387,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 16px; } }
   .tile.tile-512 .tile-inner {
-    background: url('../tile-sets/dear/512.jpg');
+    background: url('../tile-sets/dear/512.JPG');
     background-size: 100%;
 	background-position: center center;
 	background-repeat: no-repeat;
